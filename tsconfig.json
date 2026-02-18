@@ -13,7 +13,7 @@
     "isolatedModules": true,
     "jsx": "react-jsx",
     "incremental": true,
-    "baseUrl": ".",                 // 👈 ВОТ ЭТО ДОБАВЬ
+    "baseUrl": ".",                 
     "paths": {
       "@/*": ["./*"]
     },
